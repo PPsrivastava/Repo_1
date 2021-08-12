@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9003-B1A4
+
+ Directory of C:\Users\praty\OneDrive\Desktop\project
+
+12-08-2021  11:51    <DIR>          .
+12-08-2021  11:51    <DIR>          ..
+12-08-2021  11:51                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  380,040,560,640 bytes free
